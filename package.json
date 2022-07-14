@@ -29,6 +29,7 @@
         "url": "https://github.com/webworker01/node-stratum-pool.git"
     },
     "dependencies": {
+        "multi-hashing": "git://github.com/trustfarm-dev/node-multi-hashing.git",
         "async": "^2.6.1",
         "base58-native": "^0.1.4",
         "bignum": "^0.13.1",
