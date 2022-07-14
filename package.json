@@ -29,15 +29,15 @@
         "url": "https://github.com/webworker01/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/trustfarm-dev/node-multi-hashing.git",
+        "multi-hashing": "https://github.com/trustfarm-dev/node-multi-hashing",
         "async": "^2.6.1",
         "base58-native": "^0.1.4",
         "bignum": "^0.13.1",
-        "bitgo-utxo-lib": "github:miketout/bitgo-utxo-lib.git",
-        "equihashverify": "github:webworker01/equihashverify.git",
-        "merkle-bitcoin" : "github:webworker01/merkle-bitcoin.git",
+        "bitgo-utxo-lib": "https://github.com/miketout/bitgo-utxo-lib",
+        "equihashverify": "https://github.com/webworker01/equihashverify",
+        "merkle-bitcoin" : "https://github.com/webworker01/merkle-bitcoin",
         "promise": "^8.0.2",
-        "verushash": "github:VerusCoin/verushash-node.git"
+        "verushash": "https://github.com/VerusCoin/verushash-node"
     },
     "engines": {
         "node": ">=10"
